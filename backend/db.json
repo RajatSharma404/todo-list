@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "id": "1762866263704",
+      "username": "Rajat Sharma",
+      "email": "rajat.sharma.mydi1@gmail.com",
+      "password": "$2a$10$jClI6Upv4DR.DuiDyyXoje0Pi/OiDZnM07Mz08slxYUPlGXMq5f5y",
+      "createdAt": "2025-11-11T13:04:23.704Z"
+    }
+  ],
+  "todos": []
+}
