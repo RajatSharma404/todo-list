@@ -1,0 +1,28 @@
+========================================
+COPY AND PASTE THESE COMMANDS
+========================================
+
+STEP 1: Create a new repository on GitHub
+Go to: https://github.com/new
+- Name it: mern-todo-app
+- Don't initialize with README
+- Click "Create repository"
+
+STEP 2: Copy these commands and replace YOUR_USERNAME with your GitHub username
+========================================
+
+git remote add origin https://github.com/YOUR_USERNAME/mern-todo-app.git
+git branch -M main
+git push -u origin main
+
+========================================
+EXAMPLE (if your username is "rajatsharma"):
+========================================
+
+git remote add origin https://github.com/rajatsharma/mern-todo-app.git
+git branch -M main
+git push -u origin main
+
+========================================
+DONE! Your project will be on GitHub!
+========================================
